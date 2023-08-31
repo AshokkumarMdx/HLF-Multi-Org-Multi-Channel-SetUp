@@ -39,9 +39,13 @@ Deploy Chaincode
 
 ----------------------
 For PrivateChannel
+
 Run the below script in the Main Directory
+
 ./org1-org2createChannel.sh
+
 For chaincode
+
 ./deployChaincode-org1-org2-channel.sh*
 
 
