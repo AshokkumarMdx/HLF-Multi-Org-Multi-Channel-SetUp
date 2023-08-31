@@ -37,7 +37,14 @@ Deploy Chaincode
 
 ./deployChaincode.sh
 
-----------
+----------------------
+For PrivateChannel
+Run the below script in the Main Directory
+./org1-org2createChannel.sh
+For chaincode
+./deployChaincode-org1-org2-channel.sh*
+
+
 To stop the application
 
 cd artifacts/
